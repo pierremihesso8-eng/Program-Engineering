@@ -28,7 +28,7 @@
 **Скриншот результата:**
 <br>
 <img width="1123" height="607" alt="1" src="https://github.com/user-attachments/assets/92e4035c-9132-4282-ad81-8c2ed1c73309" />
-<img width="581" height="367" alt="1 1" src="https://github.com/user-attachments/assets/1e019202-7a19-4d38-8fd6-6a08f3425923" />
+
 
 **Вывод:** Установил Git на компьютер, проверил версию для подтверждения успешной установки.
 
